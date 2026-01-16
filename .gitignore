@@ -32,7 +32,7 @@ migrate_working_dir/
 .pub-cache/
 .pub/
 /build/
-api_app/lib/my_strings.dart
+lib/my_strings.dart
 
 # Symbolication related
 app.*.symbols
